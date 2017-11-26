@@ -1,4 +1,4 @@
-<big>Exercise 2.1</big>  
+##Exercise 2.1  
 
 Which of the following are lexical tokens?  
 
@@ -10,7 +10,8 @@ Which of the following are lexical tokens?
  - wide string constants  
  - parentheses  
 
-<big>Solution</big>  
+##Solution  
+
 The keywords, identifiers, constants, string literals, and operators are examples of tokens. Punctuation characters and various types of parentheses are also tokens.  
 
 This means that the following are lexical tokens:  
